@@ -1,0 +1,11 @@
+﻿award_id,award_name,award_value,award_desc,donor_id,department_id
+501,Academic Excellence Award,500,Award for top academic performance,401,301
+601,Community Service Award,200,Award for outstanding community service,402,302
+503,Innovation in Biology Award,300,Award for innovation in biology,401,303
+701,Tech Innovation Award,300,Award for innovation in technology,404,310
+802,Creative Writing Award,100,Award for excellent creative writing skills,403,311
+506,Innovation in Physics Award,300,Award for innovation in physics,401,310
+507,Innovation in Chemistry Award,300,Award for innovation in chemistry,401,309
+508,Innovation in Mathematics Award,300,Award for innovation in mathematics,401,312
+702,Innovation in Data Science Award,300,Award for innovation in data science,404,310
+411,Excellent Sportsmanship Award,500,Award for top athletic performance,405,341
